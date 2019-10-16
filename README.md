@@ -9,6 +9,14 @@
 - `yarn ou npm i` para instalar as dependências do projeto
 - `yarn start ou npm start` para rodar a aplicação no localhost
 
+## Imagens: 📷
+
+### <strong>Imagem 1:</strong>
+![Imagem 1](./src/assets/imagem-1.png)
+
+### <strong>Imagem 2:</strong>
+![Imagem 1](./src/assets/imagem-2.png)
+
 ## Sobre o projeto: 📃
 
 Git compare é um app web desenvolvido com React Js, seu objetivo é comparar respositórios do Github.
@@ -29,11 +37,3 @@ Git compare é um app web desenvolvido com React Js, seu objetivo é comparar re
 ### Backend: 💾
 
 - <strong>API do Github</strong> (API utilizada para receber os dados dos repositórios)
-
-## Imagens: 📷
-
-### <strong>Imagem 1:</strong>
-![Imagem 1](./src/assets/imagem-1.png)
-
-### <strong>Imagem 2:</strong>
-![Imagem 1](./src/assets/imagem-2.png)
